@@ -12,6 +12,6 @@
 
 3. Rcovery step for 3-order magic cube.  
 
-![recovery step for the basic situation](Reovery-Step.png)
+![recovery step for the basic situation](Recovery-Step.png)
 
 # Enjoy it for fun.
