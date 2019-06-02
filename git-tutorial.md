@@ -2,15 +2,15 @@
 
 
 ## Git pulls remote branches and creates local branches
-View remote branches
-`git branch -r`
-View remote branches and local branches
-`git branch -a`
-View local branches
+View remote branches  
+`git branch -r`  
+View remote branches and local branches  
+`git branch -a`  
+View local branches  
 `git branch`
 
 ## create local branches
-`git checkout -b local-branch origin/remote-branch`
+`git checkout -b local-branch origin/remote-branch`  
 `git fetch local-branch:remote-branch`  
 *Note*: This method will create a new branch x locally, but will not automatically switch to the local branch X. Manual checkout is required. Local branches established by this method do not map to remote branches.
 
