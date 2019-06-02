@@ -1,5 +1,5 @@
 ## Primer turorial for the git commands  
-
+References from [https://blog.csdn.net/zhangxiaoyang0/article/details/79286825](https://blog.csdn.net/zhangxiaoyang0/article/details/79286825)
 
 ## Git pulls remote branches and creates local branches
 View remote branches  
