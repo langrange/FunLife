@@ -25,4 +25,15 @@ or
 Revoke mapping relationship between local branch and remote branches  
 `git branch --unset-upstream`
 
+## Back Branch Version
+References from [Liao Xuefeng](https://www.liaoxuefeng.com/wiki/896043488029600/897013573512192)
+
+View log history  
+`git log --pretty=oneline`  
+View command history
+`git reflog`
+back history Version
+`git reset --hard id_num`
+![git-log](gitlog.png)
+
 ![git-tutorial](git-tutorial.png)
