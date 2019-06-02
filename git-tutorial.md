@@ -1,6 +1,5 @@
 ## Primer turorial for the git commands  
 
-![git-tutorial](git-tutorial.png)
 
 ## Git pulls remote branches and creates local branches
 View remote branches
@@ -12,7 +11,7 @@ View local branches
 
 ## create local branches
 `git checkout -b local-branch origin/remote-branch`
-`git fetch local-branch:remote-branch`
+`git fetch local-branch:remote-branch`  
 *Note*: This method will create a new branch x locally, but will not automatically switch to the local branch X. Manual checkout is required. Local branches established by this method do not map to remote branches.
 
 ## Establishing Mapping Relations between local-branches and remote-branches
@@ -26,3 +25,4 @@ or
 Revoke mapping relationship between local branch and remote branches  
 `git branch --unset-upstream`
 
+![git-tutorial](git-tutorial.png)
